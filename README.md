@@ -9,7 +9,4 @@
 HH.ru - https://saratov.hh.ru/resume/c8809b4bff0fb78cb40039ed1f5350664e4d37
 Телеграмм - @Vlasovserj
 VK - https://vk.com/id139075691
-
-Языки и инструменты:
-Языки: Python, JavaScript, SQL;
-Инструменты: Jira, Sitechco, TestIT, bun.rt (ёжка), GitHub, SoapUI, Postman, Selenium, JMeter;
+Для удобства просмотра в отдельном файле собрал примеры некоторых выполненных мною задач.
